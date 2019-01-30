@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "Travare-landing-page",
+    "builds": [
+      { "src": "index.html", "use": "@now/static" }
+    ]
+  }
